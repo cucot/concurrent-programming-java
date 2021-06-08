@@ -1,0 +1,9 @@
+*.class
+*.swp
+*.zip
+*.rar
+*.7z
+**/target/**
+**/.idea/**
+**/downloaded/**
+*.iml
